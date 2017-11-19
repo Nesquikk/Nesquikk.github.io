@@ -1,0 +1,60 @@
+#one{
+	font-family: cursive;
+	font-size: 40;
+	background-color: grey;
+	text-align: center;
+}
+#two{
+	font-family: serif;
+	font-size: 25;
+	color: red;
+	text-align: left;
+}
+#tree{
+	font-family: cursive;
+	font-size: 60;
+	background-color: yellow;
+	text-align: center;
+}
+#four{
+	font-family: sans-serif;
+	font-size: 25;
+	color: black;
+	text-align: left;
+}
+#fife{
+	font-family: cursive;
+	font-size: 60;
+	background-color: green;
+	text-align: center;
+}
+#six{
+	font-family: unset;
+	font-size: 25;
+	color: black;
+	text-align: left;
+}
+#seven{
+	font-family: cursive;
+	font-size: 60;
+	background-color: grey;
+	text-align: center;
+}
+#eit{
+	font-family: all;
+	font-size: 25;
+	color: black;
+	text-align: left;
+}
+#nine{
+	font-family: cursive;
+	font-size: 60;
+	background-color: rgb(124,95,22);
+	text-align: center;
+}
+#ten{
+	font-family: cursive;
+	font-size: 25;
+	color: black;
+	text-align: left;
+}
